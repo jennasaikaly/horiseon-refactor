@@ -18,16 +18,16 @@ This Marketing Agency client is requesting that their website be refactored so t
 ![readme screenshot 2](https://user-images.githubusercontent.com/99379999/155903062-620529cc-cc35-4cf6-a86a-72f85c7146b2.png)
 
 ## Changes Made
-*Updated the HTML so that it included the use of semantic elements (such as header, footer, nav).
-*Ensured that the element flow is logical (follows semantic structure).
-*Included proper commenting in CSS file.
-*Updated image elements to include alt attributes
-*Made sure the heading attributes are in the sequential order (h1, h2, h3, etc)
-*Changed the title so that it was more descriptive and concise
-*Made sure that all of the links work
+* Updated the HTML so that it included the use of semantic elements (such as header, footer, nav).
+* Ensured that the element flow is logical (follows semantic structure).
+* Included proper commenting in CSS file.
+* Updated image elements to include alt attributes
+* Made sure the heading attributes are in the sequential order (h1, h2, h3, etc)
+* Changed the title so that it was more descriptive and concise
+* Made sure that all of the links work
   * The SEO link in the nav bar was not working
   * created a link so that the heading in the header was linked to the main page
-*Consilidated CSS Selectors and Properties
-*Organized CSS Selectors so that they follow semantic structure
+* Consilidated CSS Selectors and Properties
+* Organized CSS Selectors so that they follow semantic structure
 
 ## Deployed Page
