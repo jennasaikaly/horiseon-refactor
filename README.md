@@ -31,3 +31,4 @@ This Marketing Agency client is requesting that their website be refactored so t
 * Organized CSS Selectors so that they follow semantic structure
 
 ## Deployed Page
+https://jennasaikaly.github.io/horiseon-refactor/
