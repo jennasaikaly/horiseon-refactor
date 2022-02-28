@@ -25,7 +25,7 @@ header h1 {
 }
 
 /*applies styles to 'seo' portion of the word 'horiseon'*/
-.header-color {
+.heading-color {
     color: #d9dcd6;
 }
 
@@ -79,9 +79,9 @@ p {
 
  /*determines style of sections within content box*/   
 .content section {
-    margin-bottom: 20px;
+    margin-bottom:20px;
     padding: 50px;
-    height: 320px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
