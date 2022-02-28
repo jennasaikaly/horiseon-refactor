@@ -30,5 +30,9 @@ This Marketing Agency client is requesting that their website be refactored so t
 * Consilidated CSS Selectors and Properties
 * Organized CSS Selectors so that they follow semantic structure
 
+### Screenshot
+![screencapture-file-C-Users-Jenna-Desktop-Projects-refactor-challenge-index-html-2022-02-27-20_07_12](https://user-images.githubusercontent.com/99379999/155909257-c36fd8b8-1419-475b-b2af-dfabe0e6fdd8.png)
+
+
 ## Deployed Page
 https://jennasaikaly.github.io/horiseon-refactor/
